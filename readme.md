@@ -18,7 +18,7 @@ Aterna is a terminal-native AI chat interface that brings the power of LLMs (lik
 
 ```bash
 git clone https://github.com/soamn/aterna.git
-cd aterna-cli
+cd aterna
 ```
 - copy .env
 ```bash
